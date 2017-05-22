@@ -1,5 +1,6 @@
 # pyZDEM - SAP GAP Manager - Customizable manager tool
 
+![alt text](https://github.com/tiuksferve/pyZDEM/blob/master/List_screen.png)
 
 Please, for a guided manual through the application, check one of the files listed below:
 ```
