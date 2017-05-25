@@ -15,9 +15,9 @@ This development turned into a huge Python laboratory for me since I have never 
 It took me 1 month (3 hours/day) to get to this first version including the learning steps.
 
 Check my Linkedin article:
-https://www.linkedin.com/pulse/developing-using-python-building-application-sql-ferreira-veiga (ENGLISH)
-or
-https://www.linkedin.com/pulse/desenvolvendo-em-python-construindo-uma-aplica%C3%A7%C3%A3o-e-ferreira-veiga (Portuguese)
+
+https://www.linkedin.com/pulse/developing-using-python-building-application-sql-ferreira-veiga
+
 
 So, I hope all the examples that I have implemented on this development can be useful for you.
 REMEMBER... this code is free to use and change since you leave the original credits on it.
