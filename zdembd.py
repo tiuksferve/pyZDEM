@@ -1,7 +1,8 @@
 # This is part of the PyZDEM solution - Written by Tiago Ferreira Veiga (aka Tiuks Ferve)
-# veigatf@gmail.com // instagram: @tiuksferve // Mobile: +55 61 999-682-129 // ABAP SENIOR DEVELOPER
+# veigatf@gmail.com // instagram: @tiuksferve // Mobile: +351 910-869-393 // ABAP SENIOR DEVELOPER & SAP HANA Developer
 # PLEASE DO NOT REMOVE CREDITS - YOU CAN CHANGE THE CODE - ADD YOUR NAME AT THE "CONTRIBUTORS" AREA 
-# Contributors: NONE (05.12.2017 - mm.dd.aaaa)
+# Contributors: NONE (05.12.2017 - dd.mm.aaaa)
+# Edited on 09.03.2020 (dd.mm.aaaa)
 # This code turned into a huge Python3 laboratory... Enjoy!
 import sqlite3
 
